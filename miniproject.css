@@ -131,7 +131,7 @@ line-height: 60px;
 #check:checked ~.btn_one i{
     opacity:0;
 }
-#check:checked ~.sidebar_menu.btn_one i{
+#check:checked ~.sidebar_menu.btn_two i{
     opacity:1;
 }
 
